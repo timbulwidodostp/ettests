@@ -1,4 +1,4 @@
-D 'DEA': Data envelopment analysis
+D 'ettests': Calculate two sample t tests over many variables and save the results in e() Use ettests With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F ettests.ado
+F ettests.sthlp
