@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p ettests Calculate two sample t tests over many variables and save the results in e() Use ettests With STATA 19
