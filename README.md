@@ -1,6 +1,8 @@
 # ettests
 Calculate two sample t tests over many variables and save the results in e() Use ettests With STATA 19
 
+https://www.youtube.com/watch?v=re-Z3B8Uy9E
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
